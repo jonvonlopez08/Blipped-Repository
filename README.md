@@ -15,6 +15,13 @@ ronna.blipped@gmail.com
 
 PASSWORD:Blipped2017
 
+#Blog
+blippedblog.wordpress.com
+
+username:blippedblog
+password:Blipped2017
+
+
 Activities:
 BLOG
 
@@ -32,5 +39,4 @@ GUI
   
   
 SERVER (AZURE) DATABASE
-sdfsfs
 
