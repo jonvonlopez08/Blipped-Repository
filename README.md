@@ -40,3 +40,9 @@ GUI
   
 SERVER (AZURE) DATABASE
 
+
+#WATCH THIS FOR DATABASE
+
+https://azure.microsoft.com/en-us/resources/videos/mobile-get-started-with-data-android/
+
+
